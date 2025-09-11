@@ -60,7 +60,7 @@ Built interactive Excel charts for:
 - column chart segmented univariate analysis for target for income range, loan amount range and age range
 - bivariate analysis with average credit amount with income range
 - top correlation with conditional formatting  
-- Applicant demographic breakdowns.  
+- applicant demographic breakdowns.  
 
 ---
 
@@ -71,6 +71,10 @@ Built interactive Excel charts for:
 
 ---
 
+## 🔗 Access Project Files Here
+- [project files](https://drive.google.com/drive/folders/16Uw0J3AV2iVsWWIlMuu_snxS_8b8upWm?usp=drive_link)
+
+---
 
 ## ✅ Author
 Yachana Tamang | [LinkedIn](www.linkedin.com/in/yachana01) | [GitHub](github.com/yachana01)
